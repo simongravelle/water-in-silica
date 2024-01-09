@@ -1,4 +1,4 @@
-# Data file for NMRforMD
+# Data file for NMRforMD: water in silica slit
 
 <a href="webp">
   <img src="https://raw.githubusercontent.com/simongravelle/nmrformd/main/docs/source/figures/logo/logo-b.png" align="right" width="30%"/>
@@ -11,7 +11,7 @@ The GROMACS input files and topology are also given.
 ## Simulation
 
 <a href="webp">
-<img src="https://raw.githubusercontent.com/simongravelle/nmrformd/main/docs/source/figures/tutorials/isotropic-systems/snapshot.png" align="right" width="32%" />
+<img src="https://raw.githubusercontent.com/simongravelle/nmrformd/main/docs/source/figures/tutorials/anisotropic-systems/snapshot.png" align="right" width="32%" />
 </a>
 
 The system is made of 602 ($\text{TIP4P}-\epsilon$) water molecules
