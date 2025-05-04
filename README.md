@@ -8,6 +8,9 @@ Raw trajectory files used for the
 anisotropic tutorial of [nmrformd](https://nmrformd.readthedocs.io).
 The GROMACS input files and topology are also given.
 
+This repository was [replaced](https://github.com/NMRDfromMD/dataset-water-in-silica)
+following the migration from nmrformd to nmrdfrommd.
+
 ## Simulation
 
 <a href="webp">
